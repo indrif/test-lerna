@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/indrif/test-lerna.svg?branch=master)](https://travis-ci.org/indrif/test-lerna)
