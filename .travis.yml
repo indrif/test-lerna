@@ -1,0 +1,5 @@
+language: node_js
+install:
+  - lerna bootstrap --hoist
+script:
+  - lerna run test
